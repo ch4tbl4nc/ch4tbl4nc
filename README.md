@@ -1,16 +1,39 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/e1/d7/2e/e1d72e109f3ac41043105f87d883d0c5.jpg" alt="Ch4t Bl4nc Banner">
+</p>
 
-<!--
-**ch4tbl4nc/ch4tbl4nc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Ch4t Bl4nc - Cyber Student</h1>
 
-Here are some ideas to get you started:
+<p align="center">🌐 Cybersecurity | Dev | 3D Modeler - <em>OSINT / Forensics / Pentesting / CTFs / Full-Stack / 3D Modeling</em> 🌐</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OSINT-Active-blue?style=flat-square" alt="OSINT">
+  <img src="https://img.shields.io/badge/Forensics-Research-orange?style=flat-square" alt="Forensics">
+  <img src="https://img.shields.io/badge/Pentesting-Labs-red?style=flat-square" alt="Pentesting">
+  <img src="https://img.shields.io/badge/CTF-Player-purple?style=flat-square" alt="CTF">
+  <img src="https://img.shields.io/badge/3D-Modeling-teal?style=flat-square&logo=blender&logoColor=white" alt="3D Modeling">
+</p>
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"You are your own first line of defense — never forget that."* — **Benjamin Miller**
+
+</div>
+
+---
+
+<h3>Stack & Tools</h3>
+<br>
+<p align="center">
+  <!-- Langages -->
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,php&theme=dark" height="45" />
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,mysql,nextjs,tailwind&theme=dark" height="45" />
+  <!-- Outils & OS -->
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,blender,kali,windows&theme=dark" height="45" />
+</p>
+<h2></h2>
+
+### **Contact** :
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-ch4tbl4nc-202020?style=for-the-badge&logo=discord&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/GitHub-@ch4tbl4nc-202020?style=for-the-badge&logo=github&logoColor=000000"">
+</p>
